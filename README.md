@@ -2,16 +2,35 @@
 
 ![image](https://github.com/user-attachments/assets/cdfa6a48-56d3-4dba-8628-2b474f82fe69)
 
-This is my Computer Science Special Problem (SP) application for the academic year 2023-2024. The project is a program designed to visualize C pointers, which features animations and interactive elements. It provides a dynamic representation of proper pointer usage, with checks to determine whether a pointer is appropriately employed or not. This tool is intended to be a valuable resource for students learning pointers in C.
+This is my Computer Science Special Problem (SP) application for the academic year 2023-2024. The project is a program designed to visualize C pointers, which features animations and interactive elements. It provides a dynamic representation of proper pointer usage, with checks to determine whether a pointer is appropriately employed or not. This tool is intended to be a valuable resource for students learning about pointers in C.
 
 
 
 ## Table of Contents
 
+- [OS Versions](#os-versions)  
+- [Running Instructions](#how-to-run-the-files)  
 - [Interface Overview](#interface-overview)  
 - [Usage Instructions](#usage-instructions)
 - [Supported Code Formats](#supported-code-formats)  
 - [Format Restrictions](#format-restrictions) 
+
+
+
+## OS Versions
+
+The C-pointer Concept Illustrator has only been released for the Windows and the Linux operating systems. In case you have downloaded the wrong version for your operating system, you can download them here:
+
+- [⬇️ Download for Windows](https://github.com/yvestige/cpci-windows-release/archive/refs/heads/main.zip)
+- [⬇️ Download for Linux](https://github.com/yvestige/cpci-linux-release/archive/refs/heads/main.zip)
+
+
+
+## How to run the files
+
+Navigate to the "C Pointer Concept Illustrator" folder and simply run the file named `cpci.exe` (for Windows OS) or `cpci.x86_64` (for Linux OS). There is no installation required to run this program.
+
+**<u>Note for Windows users</u>:** Opening the program for the first time may take a bit longer. This behavior is normal and expected because of how the Unity engine and the graphics drivers manage resources and caching in Windows. Subsequent launches will be faster once the initialization processes have been completed.
 
 
 
